@@ -1,0 +1,21 @@
+# Build scripts (not for submission)
+build_report.py
+build_notebook.py
+run_analysis.py
+
+# Intermediate results
+results_summary.json
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Weights & Biases
+wandb/
+
+# macOS
+.DS_Store
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
